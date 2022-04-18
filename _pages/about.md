@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Welcome!
 
 I am Hyungsuk (Tak) Tak, an assistant professor in the Department of Statistics, Department of Astronomy & Astrophysics, and Institute for Computational and Data Sciences at the Pennsyvania State University.
