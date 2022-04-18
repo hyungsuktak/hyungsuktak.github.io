@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyungsuk (Tak) Tak"
+title                    : "Hyungsuk (Tak) Tak's Webpage"
 title_separator          : "-"
 name                     : &name "Hyungsuk Tak"
 description              : &description "Hyungsuk Tak's Webpage"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyungsuk (Tak) Tak"
-  avatar           : "tak.jpg"
+  avatar           : "tak.pdf"
   bio              : "Assistant Professor\\Department of Statistics\n Department of Astronomy & Astrophysics"
   location         : "Location"
   employer         : "Pennsylvania State University"
