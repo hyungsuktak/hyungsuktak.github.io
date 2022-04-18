@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hyungsuk (Tak) Tak"
   avatar           : "tak.jpg"
-  bio              : "Assistant Professor Department of Statistics  Department of Astronomy & Astrophysics      Institute for Computational and Data Sciences   The Pennsylvania State University"
+  bio              : "Assistant Professor Department of Statistics  Department of Astronomy and Astrophysics      Institute for Computational and Data Sciences   The Pennsylvania State University"
   location         : 
-  employer         : "Pennsylvania State University"
+  employer         : #"Pennsylvania State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=66Sw5P4AAAAJ&hl=en"
   email            : "tak@psu.edu"
