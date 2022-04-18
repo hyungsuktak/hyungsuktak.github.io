@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Hyungsuk (Tak) Tak"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Hyungsuk Tak"
+description              : &description "Hyungsuk Tak's Webpage"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-73118370-1"
 
 
 # Site Author
