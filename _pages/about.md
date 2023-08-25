@@ -11,3 +11,5 @@ redirect_from:
 I am Hyungsuk (Tak) Tak, an assistant professor in the Department of Statistics, Department of Astronomy and Astrophysics, and Institute for Computational and Data Science at the Pennsylvania State University. 
 
 As an astro-statistician, I work closely with astronomers to develop practically motivated data analytic tools to tackle statistical challenges in analyzing astronomical data. In particular, I am interested in time delay cosmography to infer the current expansion rate of the Universe, called the Hubble constant, via strong gravitational lensing effects. I deal with various statistical challenges, such as modeling irregularly-spaced time series data or large-scale cross-sectional data with measurement error, and developing Markov chain Monte Carlo methods for multimodality. 
+
+<img src="images/overview.jpg" class="inline"/>
